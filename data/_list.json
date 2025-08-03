@@ -1,171 +1,35 @@
-[
- {
-     "name": "Amethyst",
-     "creator": "iMist",
-     "position": 1,
-     "difficulty": "Extreme Demon"
- },
- {
-        "name": "Thinking Space II",
-        "creator": "CairoX",
-        "position": 2,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Tidal Wave",
-        "creator": "OniLinkGD",
-        "position": 3,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Boobawamba",
-        "creator": "Akunakunn",
-        "position": 4,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Nullscapes",
-        "creator": "ItzKiba",
-        "position": 5,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Every End",
-        "creator": "MindCap",
-        "position": 6,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Andromeda",
-        "creator": "Insxne97"
-        "position": 7,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Anathema",
-        "creator": "nikroplays"
-        "position": 8,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Unnerfed Sakupen Circles",
-        "creator": "Frojy"
-        "position": 9,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Avernus",
-        "creator": "PockeWindfish"
-        "position": 10,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Quanteuse Processing",
-        "creator": "EggNogg1414"
-        "position": 11,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Acheron",
-        "creator": "ryamu",
-        "position": 12,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Aquamarine",
-        "creator": "Sincos",
-        "position": 13,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Silent Clubstep",
-        "creator": "TheRealSailent",
-        "position": 14,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Spectre",
-        "creator": "xander556",
-        "position": 15,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Tunnel Of Despair",
-        "creator": "Exen",
-        "position": 16,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Kyouki",
-        "creator": "Demishio",
-        "position": 17,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Abyss Of Darkness",
-        "creator": "Exen",
-        "position": 18,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Subterminal Point",
-        "creator": "SyQual",
-        "position": 19,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Ashley Wave Trials",
-        "creator": "OddMod",
-        "position": 20,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Slaughterhouse",
-        "creator": "icEDcave",
-        "position": 21,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Kocmoc",
-        "creator": "CherryTeam",
-        "position": 22,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Menace",
-        "creator": "MannyHeffley",
-        "position": 23,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name" "Sakupen Circles",
-        "creator": "TheDiamondPizza",
-        "position": 24,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Based After Based",
-        "creator": "Akunakunn",
-        "position": 25,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "Firework",
-        "creator": "TrickGMD",
-        "position": 26,
-        "difficulty": "Extreme Demon"
-    },
-    {
-        "name": "The Lightning Rod",
-        "creator": "lavatrex",
-        "position": 27,
-        "difficulty": "Extreme Demon"
-
-    
-       
-        
-        
-        
+Amethyst, iMist, 1, Extreme Demon
+Thinking Space II, CairoX, 2, Extreme Demon
+Tidal Wave, OniLinkGD, 3, Extreme Demon
+Boobawamba, Akunakun, 4, Extreme Demon
+Nullscapes, ItzKiba, 5, Extreme Demon
+Every End, MindCap, 6, Extreme Demon
+Unnerfed Sakupen Circles, Nick24, 7, Extreme Demon
+Andromeda, Insxne97, 8, Extreme Demon
+Anathema, nikroplays, 9, Extreme Demon
+Avernus, PockeWindfish, 10, Extreme Demon
+Acheron, ryamu, 11, Extreme Demon
+Quanteuse Processing, Riot, 12, Extreme Demon
+Spectre, xander556, 13, Extreme Demon
+Silent Clubstep, TheRealSailent, 14, Extreme Demon
+Tunnel Of Despair, Exen, 15, Extreme Demon
+Aquamarine, Alex, 16, Extreme Demon
+Abyss Of Darkness, Exen, 17, Extreme Demon
+Kyouki, Demishio, 18, Extreme Demon
+Slaughterhouse, icEDcave, 19, Extreme Demon
+Ashley Wave Trials, OddMod, 20, Extreme Demon
+Subterminal Point, SyQual, 21, Extreme Demon
+Kocmoc, CherryTeam, 22, Extreme Demon
+Menace, MannyHeffley, 23, Extreme Demon
+Based After Based, Akunakun, 24, Extreme Demon
+Exens Limit, legoyoshi3, 25, Extreme Demon
+Sakupen Circles, TheDiamondPizza, 26, Extreme Demon
+Woke Circles, Mulpan, 27, Extreme Demon
+Firework, TrickGMD, 28, Extreme Demon
+The Lightning Rod, lavatrex, 29, Extreme Demon
+Deimos, ItsHybrid, 30, Extreme Demon
+Element 111 Rg, DarkX, 31, Extreme Demon
+Saul Goodman, Renn241, 32, Extreme Demon
 
 
 
@@ -193,27 +57,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-      
-        
